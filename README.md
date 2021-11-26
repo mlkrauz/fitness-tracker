@@ -1,7 +1,7 @@
 # fitness-tracker
 
 ## Description
-This is a placeholder repository. This may become a full project one day, but probably not.
+This is a webapp that allows you to track your workouts and view statistics!
 
 ## Table of Contents
 * [Installation](#installation)
